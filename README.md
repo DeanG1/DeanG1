@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dean Gyzelev</h1>
 <h3 align="center">A passionate frontend developer from Bulgaria</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dean&label=Profile%20views&color=0e75b6&style=flat" alt="dean" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dean" alt="dean" /></a> </p>
-
 - 🔭 I’m currently working on **some full stack projects.**
 
 - 🌱 I’m currently learning **PHP, NextJS, Typescript**
@@ -43,10 +39,5 @@
 <p>Other:</p>
    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </br> </a>  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>      </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dean&show_icons=true&locale=en&layout=compact" alt="dean" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dean&show_icons=true&locale=en" alt="dean" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dean&" alt="dean" /></p>
 
 
