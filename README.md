@@ -5,7 +5,7 @@
 
 <!-- About Me Section with Typing Animation -->
 <p align="center">
-  <samp>🚀 Hello, I'm Dean Gyzelev! Passionate Frontend Developer from Bulgaria</samp>
+  <samp>🚀 Hello, I'm Dean Gyzelev! Passionate Full Stack Developer from Bulgaria</samp>
 </p>
 
 <!-- Current Focus Section with Bouncing Animation -->
