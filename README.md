@@ -75,6 +75,7 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
   </a>
+<img src="https://github-readme-stats.vercel.app/api?username=DeanG1&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="DeanG1's GitHub Stats" />
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
