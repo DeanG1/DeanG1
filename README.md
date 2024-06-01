@@ -6,9 +6,8 @@
 <!-- About Me Section with Typing Animation -->
 <p align="center">
   <samp>🚀 Hello, I'm Dean Gyzelev! Passionate Full Stack Developer from Bulgaria</samp>
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="70" /> 
 </p>
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="200" /> 
-
 <!-- Current Focus Section with Bouncing Animation -->
 <p align="center">
   <samp>🔭 Currently working on innovative full stack projects</samp><br>
