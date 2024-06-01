@@ -88,5 +88,5 @@
 <br/>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=DeanG1&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="DeanG1's GitHub Stats" width="400" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DeanG1&theme=midnight-purple&hide_border=true" alt="DeanG1's GitHub Stats" width="420"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DeanG1&theme=midnight-purple&hide_border=true" alt="DeanG1's GitHub Stats" width="430"/>
 </div>
