@@ -1,6 +1,6 @@
 <!-- Header Section with Animated Gif -->
 <p align="center">
-  <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width="500" height="250" alt="Coding Gif">
+  <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width="600" height="280" alt="Coding Gif">
 </p>
 
 <!-- About Me Section with Typing Animation -->
