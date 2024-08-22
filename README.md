@@ -22,9 +22,9 @@
 
 <!-- Social Media Section with Hover Animations -->
 <div align="center">
-    <h2><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png">
+    <h2><strong>Languages and Tools:</strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png">
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" style="max-width: 100%;">
-    </a> <strong>Languages and Tools:</strong></h2>
+    </a> </h2>
 </div>
 <br/>
 <p align="center">
