@@ -22,6 +22,7 @@
 
 <!-- Social Media Section with Hover Animations -->
 <h3 align="center">Languages and Tools</h3>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" style="max-width: 100%;"></a>
 <br/>
 <p align="center">
   <!-- HTML -->
