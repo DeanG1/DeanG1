@@ -76,10 +76,10 @@
      <td align="center" width="96">
         <a target="_blank" rel="noopener noreferrer nofollow" href="https://techstack-generator.vercel.app/sass-icon.svg" ><img src="https://techstack-generator.vercel.app/sass-icon.svg"  width="40" height="40" alt="bootstrap" data-canonical-src="https://skillicons.dev/icons?i=bootstrap" style="max-width: 100%;"></a>
       <br>SASS
-    <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40" alt="tailwind" style="max-width: 100%;"></a>
-      <br>Android
-    </td>
+ <td align="center" width="96">
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.icons8.com/fluency/48/000000/android-studio.png"><img src="https://img.icons8.com/fluency/48/000000/android-studio.png" width="40" height="40" alt="Android Studio" style="max-width: 100%;"></a>
+    <br>Android Studio
+</td>
   </tr>
  <tr>
       <td align="center" width="96">
@@ -94,6 +94,11 @@
         <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7d2502981f54a67b821893f32f9ae04884c4ae47bafe9dd26ae43563398cd599/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e6f64656a73"><img src="https://camo.githubusercontent.com/7d2502981f54a67b821893f32f9ae04884c4ae47bafe9dd26ae43563398cd599/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e6f64656a73" width="40" height="40" alt="Nodejs" data-canonical-src="https://skillicons.dev/icons?i=nodejs" style="max-width: 100%;"></a>
       <br>Nodejs
       </td>
+
+<td align="center" width="96">
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.icons8.com/fluency/48/000000/express-js.png"><img src="https://img.icons8.com/fluency/48/000000/express-js.png" width="40" height="40" alt="Express.js" style="max-width: 100%;"></a>
+    <br>Express.js
+</td>
               <td align="center" width="96">
         <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="40" height="40" alt="https://www.java.com" style="max-width: 100%;"></a>
       <br>Java
