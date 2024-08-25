@@ -90,7 +90,7 @@
       <br>Nodejs
       </td>
               <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="https://www.java.com" style="max-width: 100%;"></a>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="40" height="40" alt="https://www.java.com" style="max-width: 100%;"></a>
       <br>Java
     </td>
  </tr>
