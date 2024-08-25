@@ -19,7 +19,9 @@
   💬 Ask me anything, let's talk tech!<br>
   📫 Reach me at: <a href="mailto:deanguzelev@gmail.com">deanguzelev@gmail.com</a>
 </p>
-
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=23E4F7&background=28FF7400&center=true&vCenter=true&width=760&lines=%3Ch1%3EFULLSTACK+DEVELOPER%3C%2Fh1%3E;%3Ch1%3EALWAYS+LEARNING+NEW+THINGS%3C%2Fh1%3E;%3Ch1%3ERELENTLESSLY+DRIVEN+AND+INVENTIVE%3C%2Fh1%3E" alt="Typing SVG" /></a>
+</div>
 <!-- Social Media Section with Hover Animations -->
 <div align="center">
     <h2><strong>Languages and Tools:</strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png">
