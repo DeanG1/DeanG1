@@ -71,6 +71,9 @@
         <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c2a1c48be1091ce6a771794bf0b3bc45b58e5ce1531810e48cea88a7bae4c121/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d626f6f747374726170"><img src="https://camo.githubusercontent.com/c2a1c48be1091ce6a771794bf0b3bc45b58e5ce1531810e48cea88a7bae4c121/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d626f6f747374726170" width="40" height="40" alt="bootstrap" data-canonical-src="https://skillicons.dev/icons?i=bootstrap" style="max-width: 100%;"></a>
       <br>Bootstrap
     </td>
+     <td align="center" width="96">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://techstack-generator.vercel.app/sass-icon.svg" ><img src="https://techstack-generator.vercel.app/sass-icon.svg"  width="40" height="40" alt="bootstrap" data-canonical-src="https://skillicons.dev/icons?i=bootstrap" style="max-width: 100%;"></a>
+      <br>SASS
     <td align="center" width="96">
         <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40" alt="tailwind" style="max-width: 100%;"></a>
       <br>Android
@@ -93,6 +96,10 @@
         <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="40" height="40" alt="https://www.java.com" style="max-width: 100%;"></a>
       <br>Java
     </td>
+   <td align="center" width="96">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.icons8.com/color/48/000000/spring-logo.png"><img src="https://img.icons8.com/color/48/000000/spring-logo.png" width="40" height="40" alt="Spring Boot" style="max-width: 100%;"></a>
+        <br>Spring Boot
+      </td>
  </tr>
 </tbody></table></markdown-accessiblity-table>
 <br/>
