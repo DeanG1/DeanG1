@@ -71,7 +71,7 @@
     </td>
    <td align="center" width="96">
     <a target="_blank" rel="noopener noreferrer nofollow" href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="Bootstrap" style="max-width: 100%;">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="35" height="35" alt="Bootstrap" style="max-width: 100%;">
     </a>
     <br>Bootstrap
 </td>
