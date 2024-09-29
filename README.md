@@ -69,10 +69,12 @@
         <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e531a79257b93921f8b58efa952eb049ceb2672bcf57bd666165476261c145a8/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d637373"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="css" data-canonical-src="https://skillicons.dev/icons?i=css" style="max-width: 100%;"></a>
       <br>CSS
     </td>
-    <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c2a1c48be1091ce6a771794bf0b3bc45b58e5ce1531810e48cea88a7bae4c121/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d626f6f747374726170"><img src="https://camo.githubusercontent.com/c2a1c48be1091ce6a771794bf0b3bc45b58e5ce1531810e48cea88a7bae4c121/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d626f6f747374726170" width="40" height="40" alt="bootstrap" data-canonical-src="https://skillicons.dev/icons?i=bootstrap" style="max-width: 100%;"></a>
-      <br>Bootstrap
-    </td>
+   <td align="center" width="96">
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="Bootstrap" style="max-width: 100%;">
+    </a>
+    <br>Bootstrap
+</td>
      <td align="center" width="96">
         <a target="_blank" rel="noopener noreferrer nofollow" href="https://techstack-generator.vercel.app/sass-icon.svg" ><img src="https://techstack-generator.vercel.app/sass-icon.svg"  width="40" height="40" alt="bootstrap" data-canonical-src="https://skillicons.dev/icons?i=bootstrap" style="max-width: 100%;"></a>
       <br>SASS
