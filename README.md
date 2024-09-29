@@ -49,9 +49,9 @@
     </td>
   <td align="center" width="96">
     <a target="_blank" rel="noopener noreferrer nofollow" href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="32" height="32" alt="Tailwind CSS" style="max-width: 100%;">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind CSS" style="max-width: 100%;">
     </a>
-    <br>Tailwind CSS
+    <br>Tailwind
 </td>
 
   <td align="center" width="96">
