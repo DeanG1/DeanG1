@@ -94,11 +94,12 @@
    <td align="center" width="96">
         <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/69fa8ed185f6026de241b4a3eb05855be4660cbc2d36f01b9e9b64e32e0472da/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6d7973716c2d69636f6e2e737667"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" data-canonical-src="https://techstack-generator.vercel.app/mysql-icon.svg" style="max-width: 100%;"></a>
       <br>MySQL
-    </td>
-        <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7d2502981f54a67b821893f32f9ae04884c4ae47bafe9dd26ae43563398cd599/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e6f64656a73"><img src="https://camo.githubusercontent.com/7d2502981f54a67b821893f32f9ae04884c4ae47bafe9dd26ae43563398cd599/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e6f64656a73" width="40" height="40" alt="Nodejs" data-canonical-src="https://skillicons.dev/icons?i=nodejs" style="max-width: 100%;"></a>
-      <br>Nodejs
-      </td>
+   <td align="center" width="96">
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" style="max-width: 100%;">
+    </a>
+    <br>Node.js
+</td>
 
 <td align="center" width="96">
     <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.icons8.com/fluency/48/000000/express-js.png"><img src="https://img.icons8.com/fluency/48/000000/express-js.png" width="40" height="40" alt="Express.js" style="max-width: 100%;"></a>
