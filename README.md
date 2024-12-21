@@ -53,12 +53,7 @@
     </a>
     <br>Tailwind
 </td>
-<td align="center" width="96">
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://laravel.com">
-        <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" width="40" height="40" style="max-width: 100%;">
-    </a>
-    <br>Laravel
-</td>
+
   </tr>
   <tr>
     <td align="center" width="96"> 
@@ -79,22 +74,14 @@
     </a>
     <br>Bootstrap
 </td>
-     <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://techstack-generator.vercel.app/sass-icon.svg" ><img src="https://techstack-generator.vercel.app/sass-icon.svg"  width="40" height="40" alt="bootstrap" data-canonical-src="https://skillicons.dev/icons?i=bootstrap" style="max-width: 100%;"></a>
-      <br>SASS
- <td align="center" width="96">
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.icons8.com/fluency/48/000000/android-studio.png"><img src="https://img.icons8.com/fluency/48/000000/android-studio.png" width="40" height="40" alt="Android Studio" style="max-width: 100%;"></a>
-    <br>Android Studio
+<td align="center" width="96">
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://laravel.com">
+        <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" width="40" height="40" style="max-width: 100%;">
+    </a>
+    <br>Laravel
 </td>
   </tr>
  <tr>
-     <td align="center" width="96">
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" style="max-width: 100%;">
-    </a>
-    <br>MongoDB
-</td>
-
    <td align="center" width="96">
         <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/69fa8ed185f6026de241b4a3eb05855be4660cbc2d36f01b9e9b64e32e0472da/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6d7973716c2d69636f6e2e737667"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" data-canonical-src="https://techstack-generator.vercel.app/mysql-icon.svg" style="max-width: 100%;"></a>
       <br>MySQL
