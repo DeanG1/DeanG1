@@ -111,5 +111,5 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DeanG1&theme=outrun&show_icons=true&hide_border=false&count_private=false" alt="DeanG1's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeanG1&theme=outrun&show_icons=true&hide_border=false&layout=compact" alt="DeanG1's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeanG1&theme=outrun&show_icons=true&hide_border=false&layout=compact" height="60" alt="DeanG1's GitHub Stats" />
 </div>
