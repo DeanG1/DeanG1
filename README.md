@@ -11,7 +11,7 @@
 <!-- Current Focus Section with Bouncing Animation -->
 <p align="center">
   <samp>🔭 Currently working on innovative full stack projects</samp><br>
-  <samp>🌱 Learning and exploring Angular and Typescript</samp>
+  <samp>🌱 Learning and exploring Spring Boot and Angular</samp>
 </p>
 
 <!-- Contact Section with Icon Animations -->
